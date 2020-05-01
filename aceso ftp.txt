@@ -1,0 +1,4 @@
+Host: ftp.regisyamamoto.com.br
+Usuário: regisyamamoto1
+Senha: AdaBab1843
+Porta: 21
